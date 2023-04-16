@@ -56,7 +56,7 @@ tbody {
 .d-header {
   background-color: $secondary;
   box-shadow: 0 5px 10px 0 rgba(0,0,0,.15);
-  height: 75px;
+  height: 150px;
 }
 
 // Menu Panel Links
@@ -206,7 +206,7 @@ button#create-topic {
   }
 }
 
-// header icons 
+// header icons
 .d-header-icons {
   .icon:hover {
     background-color: $primary#{20};
@@ -249,7 +249,7 @@ input[type="color"]:focus, textarea:focus {
   font-weight: 600;
 }
 
-// post notice 
+// post notice
 .post-notice {
   background-color: $secondary-high#{50};
   border: 1px solid $love#{50};
@@ -314,7 +314,7 @@ img.avatar {
 }
 .select-kit .select-kit-row.is-highlighted {
   background-color: $tertiary#{40} !important;
-} 
+}
 
 // composer popup
 .composer-popup {
